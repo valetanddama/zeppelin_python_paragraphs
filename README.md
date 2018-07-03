@@ -1,4 +1,5 @@
 # Python: work with zeppelin api for paragraphs
+Python v2.7
 
 ```python
 %python
